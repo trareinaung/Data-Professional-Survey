@@ -1,7 +1,6 @@
 # Data Professional Survey Breakdown - Power BI Dashboard
 
-![Data Professional Survey Breakdown Dashboard Preview](https://github.com/trareinaung/Data-Professional-Survey/blob/main/Data%20%20Professional.png)
-
+![](https://github.com/trareinaung/Data-Professional-Survey/blob/main/Data%20%20Professional.png)<!-- -->
 ## Overview
 
 This project presents a Power BI dashboard based on a survey of data professionals. The dashboard provides an overview of key metrics such as total participants, average salary, average age, and happiness ratings related to salary and work-life balance. It also includes a breakdown of average salary by job titles and a geographical distribution of participants.
